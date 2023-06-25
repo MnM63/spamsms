@@ -15,8 +15,7 @@
 
 ```
 pkg update && pkg upgrade
-```
-```pkg install git```
+pkg install git
 pkg install python
 pkg install python2
 pkg install python3
@@ -24,7 +23,7 @@ pip3 install requests
 git clone https://github.com/MnM63/spamsms.git
 cd spamsms
 python3 spamsms.py
-
+```
 ##
 
 ### ตัวอย่างการใช้
